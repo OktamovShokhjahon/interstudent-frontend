@@ -1,0 +1,75 @@
+{
+    "hero": {
+        "heroTitle": "Lorem ipsum dolor sit. Uz",
+        "heroDescr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, sint? Uz",
+        "heroPrBtn": "Lorem ipsum. Uz",
+        "heroSeBtn": "Dolor sit. Uz"
+    },
+    "aboutBanner": {
+        "title": "Inter Student haqida",
+        "from": "Bosh sahifa",
+        "to": "Biz haqimizda"
+    },
+    "news": {
+        "banner": "Yangiliklar",
+        "title": "Yangiliklar",
+        "from": "Bosh sahifa",
+        "to": "Yangiliklar"
+    },
+    "contract": {
+        "bannerTitle": "Online Ariza Topshirish",
+        "from": "Bosh sahifa",
+        "to": "Ariza topshirish",
+        "title": "Ariza topshirish",
+        "descr": "Chet elda o'qish bilan bog'liq barcha savollaringizga javob olishingiz mumkin.Ofisimizga tashrif buyuring, yoki bog'lanish formasi orqali bizga xabar qoldiring.",
+        "button": "yuborish"
+    },
+    "contact": {
+        "banner": "Bog'lanish",
+        "title": "Bog'lanish",
+        "lead": "Biz qanday yordam bera olamiz?",
+        "from": "Bosh sahifa",
+        "to": "Bog'lanish",
+        "firstName": "Ismingiz",
+        "phone": "Telefon raqamingiz",
+        "message": "Bizga ko'proq ma'lumot bering ..."
+    },
+    "about1": {
+        "aboutSubtitle": "Biz haqimizda",
+        "aboutTitle": "Inter Student haqida",
+        "aboutDescr": "Biz turli muddati bilan turli mutaxassisliklar bo'yicha chet elda ta'lim taklif. Maslahatchilarimizning asosiy vazifasi mijozlarimizning ehtiyojlariga javob beradigan va ularning moliyaviy imkoniyatlariga mos keladigan optimal dasturni (narxda, belgilangan vazifalar va ta'lim shartlari bo'yicha) topishdir. Bizning ishimizda shablonlar yo'q, chunki talabalar bizga turli darajadagi mashg'ulotlar bilan kelishadi, ular o'zlariga turli maqsadlarni qo'yadilar.",
+        "aboutButton": "Ko'proq"
+    },
+    "about2": {
+        "aboutSubtitle": "Biz haqimizda",
+        "aboutTitle": "Xalqaro ta’lim olishni biz bilan birga boshlang",
+        "aboutDescr": "Biz chet elda turli muddatlarda turli mutaxassisliklar bo’yicha ta’limni taklif etamiz. Bizning konsultantlarimizning asosiy vazifasi mijozlarimizning ehtiyojlariga javob beradigan va ularning moliyaviy imkoniyatlariga mos keladigan eng yaxshi dasturni, narxni, belgilangan vazifalar va shartlarni topishdir.",
+        "aboutButton": "Ko'proq"
+    },
+    "status": {
+        "first": {
+            "title": "Complated Projects Uz",
+            "value": "1200 Uz"
+        },
+        "second": {
+            "title": "Happy CliUzts Uz",
+            "value": "3210 Uz"
+        },
+        "third": {
+            "title": "Customer Services Uz",
+            "value": "3781 Uz"
+        },
+        "fourth": {
+            "title": "Answered Questions Uz",
+            "value": "4300 Uz"
+        }
+    },
+    "services": {
+        "title": "Yangiliklar",
+        "button": "Yangiliklarni ko'ring"
+    },
+    "footer": {
+        "descr1": "Biz chet elda turli muddatlarda turli mutaxassisliklar bo’yicha ta’limni taklif etamiz. Bizning konsultantlarimizning asosiy vazifasi mijozlarimizning ehtiyojlariga javob beradigan va ularning moliyaviy imkoniyatlariga mos keladigan eng yaxshi dasturni, narxni, belgilangan vazifalar va shartlarni topishdir.",
+        "title1": "Xalqaro ta’lim olishni biz bilan birga boshlang"
+    }
+}

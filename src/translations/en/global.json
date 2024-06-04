@@ -1,0 +1,75 @@
+{
+    "hero": {
+        "heroTitle": "Lorem ipsum dolor sit.",
+        "heroDescr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, sint?",
+        "heroPrBtn": "Lorem ipsum.",
+        "heroSeBtn": "Dolor sit."
+    },
+    "aboutBanner": {
+        "title": "welcome to Inter Student",
+        "from": "Home",
+        "to": "About Us"
+    },
+    "contract": {
+        "bannerTitle": "Application",
+        "from": "Home",
+        "to": "Application",
+        "title": "Send Application",
+        "descr": "You can get answers to all your questions related to studying abroad.Visit our office, or leave us a message through the contact form.",
+        "button": "Send"
+    },
+    "news": {
+        "banner": "News",
+        "title": "News",
+        "from": "Home",
+        "to": "About Us"
+    },
+    "contact": {
+        "banner": "Contact Us",
+        "title": "Contact us",
+        "lead": "How can we help?",
+        "from": "Home",
+        "to": "About Us",
+        "firstName": "First Name",
+        "phone": "Your Phone",
+        "message": "Give us more details ..."
+    },
+    "about1": {
+        "aboutSubtitle": "About us",
+        "aboutTitle": "About us",
+        "aboutDescr": "We offer education abroad for different specialties with different duration. The main task of our consultants is to find the optimal program (at the price, set tasks and terms of education) that meets the needs of our clients and is consistent with their financial capabilities. In our work there are no templates, because students come to us with different levels of training, who set themselves different goals.",
+        "aboutButton": "Learn More"
+    },
+    "about2": {
+        "aboutSubtitle": "About us",
+        "aboutTitle": "Start Your International Education Journey with Us",
+        "aboutDescr": "We offer education abroad for different specialties with different duration. The main task of our consultants is to find the optimal program, at the price, set tasks and terms of education, that meets the needs of our clients and is consistent with their financial capabilities.",
+        "aboutButton": "Learn More"
+    },
+    "status": {
+        "first": {
+            "title": "Complated Projects En",
+            "value": "1200 En"
+        },
+        "second": {
+            "title": "Happy Clients En",
+            "value": "3210 En"
+        },
+        "third": {
+            "title": "Customer Services En",
+            "value": "3781 En"
+        },
+        "fourth": {
+            "title": "Answered Questions En",
+            "value": "4300 En"
+        }
+    },
+    "services": {
+        "title": "News",
+        "button": "See our news"
+    },
+    "footer": {
+        "descr1": "We offer education abroad for different specialties with different duration. The main task of our consultants is to find the optimal program, at the price, set tasks and terms of education, that meets the needs of our clients and is consistent with their financial capabilities.",
+        "title1": "Start Your International Education Journey with Us"
+    }
+}
